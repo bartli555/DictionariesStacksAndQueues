@@ -1,0 +1,67 @@
+{
+    "table": "C",
+    "currency": "euro",
+    "code": "EUR",
+    "rates": [
+        {
+            "no": "001/C/NBP/2026",
+            "effectiveDate": "2026-01-02",
+            "bid": 4.1844,
+            "ask": 4.269
+        },
+        {
+            "no": "002/C/NBP/2026",
+            "effectiveDate": "2026-01-05",
+            "bid": 4.1686,
+            "ask": 4.2528
+        },
+        {
+            "no": "003/C/NBP/2026",
+            "effectiveDate": "2026-01-07",
+            "bid": 4.1681,
+            "ask": 4.2523
+        },
+        {
+            "no": "004/C/NBP/2026",
+            "effectiveDate": "2026-01-08",
+            "bid": 4.1687,
+            "ask": 4.2529
+        },
+        {
+            "no": "005/C/NBP/2026",
+            "effectiveDate": "2026-01-09",
+            "bid": 4.1715,
+            "ask": 4.2557
+        },
+        {
+            "no": "006/C/NBP/2026",
+            "effectiveDate": "2026-01-12",
+            "bid": 4.1697,
+            "ask": 4.2539
+        },
+        {
+            "no": "007/C/NBP/2026",
+            "effectiveDate": "2026-01-13",
+            "bid": 4.1705,
+            "ask": 4.2547
+        },
+        {
+            "no": "008/C/NBP/2026",
+            "effectiveDate": "2026-01-14",
+            "bid": 4.1681,
+            "ask": 4.2523
+        },
+        {
+            "no": "009/C/NBP/2026",
+            "effectiveDate": "2026-01-15",
+            "bid": 4.1674,
+            "ask": 4.2516
+        },
+        {
+            "no": "010/C/NBP/2026",
+            "effectiveDate": "2026-01-16",
+            "bid": 4.1721,
+            "ask": 4.2563
+        }
+    ]
+}
